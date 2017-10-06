@@ -14,4 +14,4 @@ I use quantitative methods to measure behaviors, to describe environments, and t
 
 Before joining UB, I was a research associate at [Urban Form Lab](http://depts.washington.edu/ufl/) in University of Washington, and a urban designer/researcher at Seoul Development Institute (currently [the Seoul Institute](http://www.si.re.kr/)). As trained as an architect/urban designer, in general, I’m interested in new city forms that will come with new technologies in the future.
 
-![x](../images/trail.png)
+![x](/images/trail.png)
