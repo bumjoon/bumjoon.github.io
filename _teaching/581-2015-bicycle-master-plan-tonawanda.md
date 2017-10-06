@@ -1,9 +1,11 @@
 ---
 title: "URP 581 MUP Studio: Bicycle Master Plan in Town of Tonawanda"
 collection: teaching
-type: "Workshop"
+type: "Studio"
 permalink: /teaching/581-2015-bicycle-master-plan-tonawanda
 location: "Town of Tonawanda, NY"
+venue: "University at Buffalo, Urban and Regional Planning"
+date: 2015-01-15
 ---
 
 (2015 Fall) Bicycle Master Plan has been prepared to guide the town’s future plans and policies. 
