@@ -1,6 +1,6 @@
 ---
 title: "URP 581 MUP Studio"
-permalink: /teaching-studio
+permalink: /teaching-studio/
 author_profile: true
 ---
 
