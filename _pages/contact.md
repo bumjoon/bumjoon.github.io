@@ -10,6 +10,7 @@ author_profile: true
 ## Mailing Address
 232 Hayes Hall (South Campus)
 3435 Main St, Buffalo, NY 14214-8032
+
 Fax: (716) 829-3256
 
 ## Office Hours
