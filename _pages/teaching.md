@@ -11,7 +11,7 @@ author_profile: true
 ## Graduate Courses
 * URP 605 Built Environment and Health  
   Graduate seminar course on active transportation, food environments, and environmental health issues.
-* URP 569 GIS Applications
+* URP 569 GIS Applications  
   Introductory GIS course for planners
 * URP 581 Master of Urban Planning Studio
 	* 2015 Fall, [Bicycle Master Plan in Town of Tonawanda](/files/urp581_2015fall_bike_masterplan_tonawanda_final_report.pdf)
