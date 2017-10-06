@@ -11,7 +11,7 @@ My primary research goal is to make healthy cities. My current research focuses 
 
 # News!
 * Paper accepted: "Increased Walking’s Additive and No Substitution Effect on Total Physical Activity" in *Medicine & Science in Sports & Exercise*
-* Paper accepted: "Differences in Behavior, Time, Location, and Built Environment between Objectively Measured Utilitarian and Recreational Walking" in *Transportation Research Part D: Transport and Environment*
+* Paper accepted: "Differences in Behavior, Time, Location, and Built Environment between Objectively Measured Utilitarian and Recreational Walking" [link](http://www.sciencedirect.com/science/article/pii/S1361920915301826) in *Transportation Research Part D: Transport and Environment*
 
 # On-going Projects
 * Senior Mobility and Health Project
