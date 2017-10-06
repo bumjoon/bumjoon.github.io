@@ -19,4 +19,4 @@ The Town of Tonawanda Bicycle Master Plan has been prepared to guide the town’
 * The final report [final report](files/urp581_2015fall_bike_masterplan_tonawanda_final_report.pdf)
 * [The Buffalo News article] (http://buffalonews.com/2015/08/31/tonawanda-town-board-agrees-to-form-complete-streets-panel-on-bike-lanes-pedestrian-access-2/)
 
-![class photo](image/RailstoTrailsKenmoreAve9_J-1.jpg)
+![class photo](images/RailstoTrailsKenmoreAve9_J-1.jpg)
