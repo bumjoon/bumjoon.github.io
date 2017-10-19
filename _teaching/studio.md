@@ -14,7 +14,7 @@ type: "Studio"
 ## Age-friendly Erie County
 * 2017 Spring, [Final report](/files/urp581_2017spring_age_friendly_erie_county_final_report.pdf)
 * For studio background, visit [Age Friendly Erie County (AFEC) Initiative](http://www2.erie.gov/seniorservices/index.php?q=age-friendly-erie-county)
-* Studio introduced in [AARP Newsletter](http://www.aarp.org/livable-communities/network-age-friendly-communities/info-2017/age-friendly-erie-county-college-course.html)
+* Studio introduced in [AARP Newsletter](http://www.aarp.org/livable-communities/network-age-friendly-communities/info-2017/age-friendly-erie-county-college-course.html) and [the school webpage](http://ap.buffalo.edu/news/2017/aging-communities.html)
 
 ![class photo](/images/RailstoTrailsKenmoreAve9_J-1.jpg)  
 2015 Studio site visit with client meeting. The studio was sponsored by Town of Tonawanda.
