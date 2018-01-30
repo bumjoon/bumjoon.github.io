@@ -7,9 +7,9 @@ date: 2017-10-06
 type: "Studio"
 ---
 
-## Bicycle Master Plan in Town of Tonawanda
-* 2015 Fall, [Final report](/files/urp581_2015fall_bike_masterplan_tonawanda_final_report.pdf)
-* Studio introduced in [the Buffalo News](http://buffalonews.com/2015/08/31/tonawanda-town-board-agrees-to-form-complete-streets-panel-on-bike-lanes-pedestrian-access-2/)
+## Better Access to Transit in Buffalo
+* 2018 Spring
+* [Syllabus](/files/URP581_Buffalo_Transit_Access_2018_spring_20180130.pdf)
 
 ## Age-friendly Erie County
 * 2017 Spring, [Final report](/files/urp581_2017spring_age_friendly_erie_county_final_report.pdf)
@@ -18,3 +18,6 @@ type: "Studio"
 
 ![class photo](/images/RailstoTrailsKenmoreAve9_J-1.jpg)  
 2015 Studio site visit with client meeting. The studio was sponsored by Town of Tonawanda.
+## Bicycle Master Plan in Town of Tonawanda
+* 2015 Fall, [Final report](/files/urp581_2015fall_bike_masterplan_tonawanda_final_report.pdf)
+* Studio introduced in [the Buffalo News](http://buffalonews.com/2015/08/31/tonawanda-town-board-agrees-to-form-complete-streets-panel-on-bike-lanes-pedestrian-access-2/)
