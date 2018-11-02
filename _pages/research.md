@@ -9,8 +9,8 @@ My primary research goal is to make healthy cities. My current research focuses 
 [Google Scholar Profile](https://scholar.google.com/citations?user=OgXBE_4AAAAJ&hl=en).
 
 # News!
-* Paper accepted: ["Increased Walking’s Additive and No Substitution Effect on Total Physical Activity"](https://www.ncbi.nlm.nih.gov/pubmed/29016392?dopt=Abstract) in *Medicine & Science in Sports & Exercise* <!--https://www.nihms.nih.gov/pmc/picrender.fcgi?artid=911079&blobtype=pdf-->
-* Paper accepted: ["Differences in Behavior, Time, Location, and Built Environment between Objectively Measured Utilitarian and Recreational Walking"](http://www.sciencedirect.com/science/article/pii/S1361920915301826) in *Transportation Research Part D: Transport and Environment*
+* Paper accepted: Kang, B. (forthcoming) ["Identifying street design elements effective in reducing vehicle-to-pedestrian collisions at intersections in New York City"](). *Accident Analysis and Prevention* (accepted on Oct 28, 2018)
+* Paper accepted: Kang, B., Diao, C. (forthcoming). ["Walking School Bus program feasibility in a suburban setting"](). *Journal of Planning Education and Research* (accepted on Nov 1, 2018)
 
 # On-going Projects
 * Senior Mobility and Health Project
