@@ -9,8 +9,8 @@ My primary research goal is to make healthy cities. My current research focuses 
 [Google Scholar Profile](https://scholar.google.com/citations?user=OgXBE_4AAAAJ&hl=en).
 
 # News!
-* Paper accepted: Kang, B. (forthcoming) ["Identifying street design elements effective in reducing vehicle-to-pedestrian collisions at intersections in New York City"](https://www.sciencedirect.com/science/article/pii/S0001457518308856). *Accident Analysis and Prevention* (accepted on Oct 28, 2018)
-* Paper accepted: Kang, B., Diao, C. (forthcoming). ["Walking School Bus program feasibility in a suburban setting"](https://journals.sagepub.com/doi/10.1177/0739456X18817353). *Journal of Planning Education and Research* (accepted on Nov 1, 2018)
+* Paper published: Kang, B. ["Identifying street design elements effective in reducing vehicle-to-pedestrian collisions at intersections in New York City"](https://www.sciencedirect.com/science/article/pii/S0001457518308856). *Accident Analysis and Prevention* 
+* Paper published: Kang, B., Diao, C. ["Walking School Bus program feasibility in a suburban setting"](https://journals.sagepub.com/doi/10.1177/0739456X18817353). *Journal of Planning Education and Research*
 
 # On-going Projects
 * Senior Mobility and Health Project
