@@ -7,6 +7,10 @@ date: 2017-10-06
 type: "Studio"
 ---
 
+## New and Smart Mobility
+* 2019 Spring
+* [Syllabus](https://docs.google.com/document/d/1AEJlxhuYnaudfPBQOzlwUeafSvY02CMtzIgO2SE9ra0/edit?usp=sharing)
+
 ## Better Access to Transit in Buffalo
 * 2018 Spring
 * [Syllabus](/files/URP581_Buffalo_Transit_Access_2018_spring_20180130.pdf)
