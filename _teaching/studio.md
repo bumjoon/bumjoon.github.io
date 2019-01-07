@@ -3,7 +3,7 @@ title: "URP 581 MUP Studio"
 collection: teaching
 permalink: /teaching/studio
 venue: "University at Buffalo, Urban and Regional Planning"
-date: 2017-10-06
+date: -
 type: "Studio"
 ---
 
