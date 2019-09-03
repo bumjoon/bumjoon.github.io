@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of Urban Design at [College of Architecture, Myongji University, (CAMU)](http://arch.mju.ac.kr/). My research interests focus on urban design and spatial analysis. I am studying how to promote active transportation (walking, bicycling, and transit use) and healthy behaviors through urban form changes.
+I am an assistant professor of Urban Design at [College of Architecture, Myongji University (CAMU)](http://arch.mju.ac.kr/). My research interests focus on urban design and spatial analysis. I am studying how to promote active transportation (walking, bicycling, and transit use) and healthy behaviors through urban form changes.
 
 I use quantitative methods to measure behaviors, to describe environments, and to understand how the behaviors and the environments interact. I developed an algorithm classifying walking activity and its behavioral types using accelerometer, GPS, and travel diary data. I’m interested in spatial modeling and spatial data development to better answer the question of environment-behavior interaction.
 
