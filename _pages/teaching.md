@@ -4,11 +4,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Undergraduate Courses
+## Myoungji University
+* 건축설계와조형2 (JGA02212)
+* 건축과문화 (JGA02122, 50% co-teaching)
+
+## University at Buffalo (SUNY)
 * END 301 Perspectives on Land Use and Development
 * END 498 Research Projects (not teaching after 2014)
-
-## Graduate Courses
 * URP 605 Built Environment and Health  
   Graduate seminar course on active transportation, food environments, and environmental health issues.
 * URP 569 GIS Applications  
