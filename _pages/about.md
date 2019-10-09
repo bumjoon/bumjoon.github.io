@@ -14,4 +14,4 @@ I use quantitative methods to measure behaviors, to describe environments, and t
 
 Before joining CAMU, I was an assistant professor at [School of Architecture and Planning, University at Buffalo (SUNY)](http://ap.buffalo.edu), a research associate at [Urban Form Lab](http://depts.washington.edu/ufl/) in University of Washington, and a urban designer/researcher at Seoul Development Institute (currently [the Seoul Institute](http://www.si.re.kr/)). As trained as an architect/urban designer, in general, I’m interested in new city forms that will come with new technologies in the future.
 
-![x](/images/trail.png)
+![x](/images/20191003_pangyo_9.jpg)
