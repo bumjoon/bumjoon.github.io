@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Myoungji University
-* 건축설계와조형2 ([JGA02212](https://docs.google.com/presentation/d/18ZuqlDc0LrrzNuHLu_mkXySXdQWisEFgwd4Xz4VcYys/edit?usp=sharing), [강의1](https://docs.google.com/presentation/d/1L6pjYZimdrfPIQ8yKHpsGvWFBWyI2s8n-1wEOoFvKtU/edit?usp=sharing))
+* 건축설계와조형2 ([JGA02212](https://docs.google.com/presentation/d/18ZuqlDc0LrrzNuHLu_mkXySXdQWisEFgwd4Xz4VcYys/edit?usp=sharing), [강의1](https://docs.google.com/presentation/d/e/2PACX-1vQrvv2IcBnlN-e3TZKyzXgvmZMV8tCAC50uG8Pwa_m5vG8rlmGRe-oqrkuBiwqs9a5YUyWH-qqE8wTU/pub?start=false&loop=false&delayms=3000))
 * 건축과문화 (JGA02122, 50% co-teaching)
 
 ## University at Buffalo (SUNY)
