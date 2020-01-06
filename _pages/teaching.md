@@ -7,6 +7,7 @@ author_profile: true
 ## Myoungji University
 * 건축설계와조형2 ([JGA02212](https://docs.google.com/presentation/d/18ZuqlDc0LrrzNuHLu_mkXySXdQWisEFgwd4Xz4VcYys/edit?usp=sharing), [강의1](https://docs.google.com/presentation/d/e/2PACX-1vQrvv2IcBnlN-e3TZKyzXgvmZMV8tCAC50uG8Pwa_m5vG8rlmGRe-oqrkuBiwqs9a5YUyWH-qqE8wTU/pub?start=false&loop=false&delayms=3000))
 * 건축과문화 (JGA02122, 50% co-teaching)
+* International Urban Design Workshop ([Syllabus](https://docs.google.com/document/d/1Hil4O356NuZoOrPqeXTfwnCR9GHZIO1Mlo0PgSlCTtc/edit?usp=sharing))
 
 ## University at Buffalo (SUNY)
 * END 301 Perspectives on Land Use and Development
