@@ -27,4 +27,4 @@ Fax: 031-330-6487
 연구실: 디자인조형센터 205호
 
 
-<img src="https://www.appointletcdn.com/loader/buttons/2C3E50.png" data-appointlet-organization="bumjoon" data-appointlet-service="233403"><script src="https://www.appointletcdn.com/loader/loader.min.js" async="" defer=""></script>
+<img src="https://www.appointletcdn.com/loader/buttons/008DBD.png" data-appointlet-organization="bumjoon" data-appointlet-service="233403"><script src="https://www.appointletcdn.com/loader/loader.min.js" async="" defer=""></script>
