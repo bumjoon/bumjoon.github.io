@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bumjoon Kang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Bumjoon Kang"
 description              : &description "personal description"
 url                      : https://bumjoon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
