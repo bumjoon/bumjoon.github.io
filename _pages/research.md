@@ -19,7 +19,6 @@ Urban Design Policy, Environment-Behavior Study, and Walkable/Healthy City
 * 도시데이터를 활용하는 증거기반 도시설계 플랫폼 개발 (책임연구원 / 지원: 한국연구재단)
 * 미래 서울 도시공간전략 통합구상 (2045 서울도시공간플랜, 참여연구원 / 발주처: 서울특별시)
 * 포스트 코로나 시대 서울 도시계획 과제와 정책방향 (책임연구원 / 발주처: 서울특별시)
-* 새만금 미래전략 수립 및 투자활성화를 위한 국제행사 용역 (참여연구원 / 발주처: 새만금개발청)
 * 스마트 복합커뮤니티센터 설계공모 세부지침 2단계 수립용역 (책임연구원 / 발주처: 행정중심복합도시건설청)
 
 {% include base_path %}
@@ -28,4 +27,5 @@ Urban Design Policy, Environment-Behavior Study, and Walkable/Healthy City
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
+* 새만금 미래전략 수립 및 투자활성화를 위한 국제행사 용역 (참여연구원 / 발주처: 새만금개발청)
 -->
