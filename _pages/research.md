@@ -4,14 +4,18 @@ permalink: /research/
 author_profile: true
 ---
 
-**주요분야**: 도시설계, 공간환경-행태연구, 보행 및 건강도시연구 (Urban Design Policy, Environment-Behavior Study, and Walkable/Healthy City)
+**주요분야**: 도시설계, 공간환경-행태연구, 보행 및 건강도시연구 
 
-# 현재 진행중인 논문 주제
+Urban Design Policy, Environment-Behavior Study, and Walkable/Healthy City
+
+
+## 현재 진행중인 논문 주제
 * 보행자 및 보행환경 데이터 자동생산
 * 스마트시티 도시설계정책 비판
 * 미국 어린이 보행안전 정책 평가
 
-# 연구 프로젝트
+
+## 최근 연구 프로젝트
 * 도시데이터를 활용하는 증거기반 도시설계 플랫폼 개발 (책임연구원 / 지원: 한국연구재단)
 * 미래 서울 도시공간전략 통합구상 (2045 서울도시공간플랜, 참여연구원 / 발주처: 서울특별시)
 * 포스트 코로나 시대 서울 도시계획 과제와 정책방향 (책임연구원 / 발주처: 서울특별시)
