@@ -4,19 +4,19 @@ permalink: /research/
 author_profile: true
 ---
 
-My primary research goal is to make healthy cities. My current research focuses on active transportation (walking, bicycling, and public transit) and its infrastructure.
+**주요분야**: 도시설계, 공간환경-행태연구, 보행 및 건강도시연구 (Urban Design Policy, Environment-Behavior Study, and Walkable/Healthy City)
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=OgXBE_4AAAAJ&hl=en).
+# 현재 진행중인 논문 주제
+* 보행자 및 보행환경 데이터 자동생산
+* 스마트시티 도시설계정책 비판
+* 미국 어린이 보행안전 정책 평가
 
-# News!
-* Paper published: Kang, B. ["Identifying street design elements effective in reducing vehicle-to-pedestrian collisions at intersections in New York City"](https://www.sciencedirect.com/science/article/pii/S0001457518308856). *Accident Analysis and Prevention* 
-* Paper published: Kang, B., Diao, C. ["Walking School Bus program feasibility in a suburban setting"](https://journals.sagepub.com/doi/10.1177/0739456X18817353). *Journal of Planning Education and Research*
-
-# On-going Projects
-* Senior Mobility and Health Project
-* Sidewalk Image Recognition
-* Pedestrian and Bicyclist Count Data Development
-* Safety Improvement Project Evaluation in NYC
+# 연구 프로젝트
+* 도시데이터를 활용하는 증거기반 도시설계 플랫폼 개발 (책임연구원 / 지원: 한국연구재단)
+* 미래 서울 도시공간전략 통합구상 (2045 서울도시공간플랜, 참여연구원 / 발주처: 서울특별시)
+* 포스트 코로나 시대 서울 도시계획 과제와 정책방향 (책임연구원 / 발주처: 서울특별시)
+* 새만금 미래전략 수립 및 투자활성화를 위한 국제행사 용역 (참여연구원 / 발주처: 새만금개발청)
+* 스마트 복합커뮤니티센터 설계공모 세부지침 2단계 수립용역 (책임연구원 / 발주처: 행정중심복합도시건설청)
 
 {% include base_path %}
 
