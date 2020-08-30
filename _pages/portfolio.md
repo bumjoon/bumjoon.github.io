@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /portfolio/
 author_profile: true
@@ -28,9 +27,9 @@ author_profile: true
 * Choi, J., Kang, B., Park, Y., & Lee, Y. (2005). Schematic development of ‘refuge floors’ and ‘areas of refuge’ for high-rise buildings. Journal of Architectural Institute of Korea, 21(11), 147-154. [Korean] [IF: NA]
 * Kang, B., & Choi, J. (2004). Economic logic of apartment unit plan design. Journal of Asian Architecture and Building Engineering, 3(1), 125-132. [IF: NA]
 
+<!--
 {% include base_path %}
 
-<!--
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
