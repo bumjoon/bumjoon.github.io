@@ -4,9 +4,9 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-자세한 논문 내역은 다음 구글 스칼라 페이지에서 확인할 수 있습니다. 
+자세한 논문 내역은 다음 구글 스칼라 프로필 링크에서 확인할 수 있습니다. 
 
-:newspaper: [Google Scholar Profile](https://scholar.google.com/citations?user=OgXBE_4AAAAJ&hl=en).
+[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=OgXBE_4AAAAJ&view_op=list_works&sortby=pubdate) (링크에서 PDF 다운로드 가능)
 
 # 학술논문
 * Kang, B., Wang, C., & Baek, S. (in press). No association between Safe Routes to School programs and school-age pedestrian or bicyclist collisions in New York State. Journal of Transport & Health.
