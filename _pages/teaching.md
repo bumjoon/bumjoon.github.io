@@ -23,10 +23,10 @@ author_profile: true
 ![class photo](/images/agefriendly.png)  
 2017 Spring studio final presentation. The studio was supported by UB IDeA Center and Erie County Senior Services (Photo by Alexander Becker, UB Visual Resources Center)
 
-<!---
+
 {% include base_path %}
 
-
+<!--
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
