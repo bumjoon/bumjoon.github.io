@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-✅ **주요분야**: 도시설계, 공간환경-행태연구, 보행 및 건강도시연구 
+🔍 **주요분야**: 도시설계, 공간환경-행태연구, 보행 및 건강도시연구 
 
 Urban Design Policy, Environment-Behavior Study, and Walkable/Healthy City
 
