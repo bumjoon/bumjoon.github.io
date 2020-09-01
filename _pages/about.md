@@ -20,4 +20,4 @@ Before joining CAMU, I was an Assistant Professor at the [School of Architecture
 
 ![x](/images/20191003_pangyo_9.jpg)
 
-<sup>"2nd Generation of New Town" in South Korea: Employment centers, high-density market housing, and social housing integrated with urban streams © Photo: Kang 2019</sup>
+<sup>*2nd Generation of New Town* in South Korea: Employment centers, high-density market housing, and social housing integrated with urban streams © Photo: Kang 2019</sup>
