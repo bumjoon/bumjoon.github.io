@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## Myoungji University
+* 건축과문화 (2021-1: [JGA02122](https://docs.google.com/document/d/1dVx07pG6biUTuzkE-RqXMIfZKCOTYeCMiHyw6X22mMU/edit?usp=sharing))
+* 도시공간계획론 (2021-1: [JGA03229](https://docs.google.com/document/d/1GV8NszaMMWn0HQDDbLaSo_BAisI_qoepQkMdx6EnlJc/edit?usp=sharing))
 * 공간행태론 (2020-2: [JGA02122](https://docs.google.com/document/d/1TSRz_9CB0Sq9mkmbqKMgJtbjurchE6Vl0Y42zvlQK2c/edit?usp=sharing))
-* 건축과문화 (2020-2: [JGA02122](https://docs.google.com/document/d/1dVx07pG6biUTuzkE-RqXMIfZKCOTYeCMiHyw6X22mMU/edit?usp=sharing))
-* 도시공간계획론 (2020-1: [JGA03229](https://docs.google.com/document/d/1GV8NszaMMWn0HQDDbLaSo_BAisI_qoepQkMdx6EnlJc/edit?usp=sharing))
 * 건축설계와조형2 (2019-2: [JGA02212](https://docs.google.com/presentation/d/18ZuqlDc0LrrzNuHLu_mkXySXdQWisEFgwd4Xz4VcYys/edit?usp=sharing), [강의1](https://docs.google.com/presentation/d/e/2PACX-1vQrvv2IcBnlN-e3TZKyzXgvmZMV8tCAC50uG8Pwa_m5vG8rlmGRe-oqrkuBiwqs9a5YUyWH-qqE8wTU/pub?start=false&loop=false&delayms=3000))
 * International Urban Design Workshop ([2020-Winter: Gwanghwamun](https://docs.google.com/document/d/1Hil4O356NuZoOrPqeXTfwnCR9GHZIO1Mlo0PgSlCTtc/edit?usp=sharing), [Opening Lecture](https://docs.google.com/presentation/d/e/2PACX-1vQ13Of2HKerY2sat1M8tWUQceU6ZdvAQCrmYhjYkorDvHXzZtkLWBhBOUELFIUiKzcxqeX7T700AUhg/pub?start=false&loop=false&delayms=3000))
 
