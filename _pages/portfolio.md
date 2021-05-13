@@ -9,6 +9,7 @@ author_profile: true
 📰 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=OgXBE_4AAAAJ&view_op=list_works&sortby=pubdate) (링크에서 PDF 다운로드 가능) 
 
 # 학술논문
+*  Kang B, Lee S, Zou S. Developing Sidewalk Inventory Data Using Street View Images. Sensors. 2021; 21(9):3300. https://doi.org/10.3390/s21093300 
 * 김은정, 심혜민, 원재웅, & 강범준. (2020). 도시 차원에서 바라 본 코로나 19 이슈 흐름-신문기사 자료를 중심으로. 한국도시설계학회지 도시설계, 21(6), 163-179.
 * Kang, B., Wang, C., & Baek, S. R. (2020). No association between Safe Routes to school programs and school-age pedestrian or bicyclist collisions in New York State. Journal of Transport & Health, 18, 100866.
 * Kang, B. (2020). Critical understanding of Safe Routes to School program in the United States - Focused on interventions in New York State.  Journal of the Urban Design Institute of Korea, 21(1), 103-119. [Korean]
