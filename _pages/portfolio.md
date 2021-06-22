@@ -6,10 +6,8 @@ author_profile: true
 
 * 미래서울 도시풍경 @ 서울 도시건축전시관 (2021.06.08 ~ 2021.08.15)
 주최: 서울특별시 도시공간개선단 | 역할: 미래 서울 도시공간전략 통합구상 (2045 서울도시공간플랜) 연구팀 참여연구원
-
-![x](/files/mappingfutureagendaofpublicspaceinseoul_178x254.png)
-
-[[전시회 링크]](https://sca.seoul.go.kr/seoulhour/site/urbanArch/exhibition/exhibitNow/421) / [[서울시 정보]](https://news.seoul.go.kr/citybuild/archives/513005) / [[신문기사]](https://news.joins.com/article/24086008) / [[Youtube]](https://www.youtube.com/watch?v=hFyG75uMIQI)
+> ![x](/files/mappingfutureagendaofpublicspaceinseoul_178x254.png)
+> [[전시회 링크]](https://sca.seoul.go.kr/seoulhour/site/urbanArch/exhibition/exhibitNow/421) / [[서울시 정보]](https://news.seoul.go.kr/citybuild/archives/513005) / [[신문기사]](https://news.joins.com/article/24086008) / [[Youtube]](https://www.youtube.com/watch?v=hFyG75uMIQI)
 
 
 # 학술논문
