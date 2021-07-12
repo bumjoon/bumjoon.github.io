@@ -12,7 +12,7 @@ author_profile: true
 * 김은정, 심혜민, 원재웅, & 강범준. (2020). 도시 차원에서 바라 본 코로나 19 이슈 흐름-신문기사 자료를 중심으로. 한국도시설계학회지 도시설계, 21(6), 163-179.
 * Kang, B., Wang, C., & Baek, S. R. (2020). No association between Safe Routes to school programs and school-age pedestrian or bicyclist collisions in New York State. *Journal of Transport & Health*, 18, 100866.
 * 강범준. (2020). 미국 보행통학증진 및 통학로 안전 프로그램 (Safe Routes to School Program)에 대한 비판적 이해 - 뉴욕주 사례를 중심으로. 한국도시설계학회지 도시설계, 21(1), 103-119.
-* Kang, B. (2019). Identifying street design elements effective in reducing vehicle-to-pedestrian collisions at intersections in New York City. Accident Analysis and Prevention, 122: 308-317. doi: 10.1016/j.aap.2018.10.019 [IF: 2.584]
+* Kang, B. (2019). Identifying street design elements effective in reducing vehicle-to-pedestrian collisions at intersections in New York City. *Accident Analysis and Prevention*, 122: 308-317. doi: 10.1016/j.aap.2018.10.019 [IF: 2.584]
 
 📰 자세한 논문 내역은 제 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=OgXBE_4AAAAJ&view_op=list_works&sortby=pubdate)에서 확인할 수 있습니다.
 
