@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Myoungji University
-* 건축과문화 (2021-2: [JGA02122](https://docs.google.com/document/d/1dVx07pG6biUTuzkE-RqXMIfZKCOTYeCMiHyw6X22mMU/edit?usp=sharing))
+* 건축과문화 (2021-2: [JGA02122](https://complete-road-66f.notion.site/2c9a162dd72749c092bf5a3bdb081ebc))
 * 건축분석 (2021-2: JGA03235)
 * 공간과행태 (2021-2: [JGA03249](https://www.notion.so/3007772ec12b465d99c02a060663d1c2))
 * 도시공간계획론 (2021-1: [JGA03229](https://docs.google.com/document/d/1GV8NszaMMWn0HQDDbLaSo_BAisI_qoepQkMdx6EnlJc/edit?usp=sharing))
