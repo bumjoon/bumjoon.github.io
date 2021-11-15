@@ -4,6 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+* 명지대학교 건축대학 교수 20인 저, [《건축의 정석: 건축대학에서 무엇을 배울까》📔](http://www.yes24.com/Product/Goods/105103688), 서울: 집
 * 미래서울 도시풍경 @ 서울 도시건축전시관 (2021.06.08 ~ 2021.08.15) / 주최: 서울특별시 도시공간개선단 / 미래 서울 도시공간전략 통합구상 (2045 서울도시공간플랜) 연구팀 참여연구원 / [[전시회 링크]](https://sca.seoul.go.kr/seoulhour/site/urbanArch/exhibition/exhibitNow/421) [[서울시 정보]](https://news.seoul.go.kr/citybuild/archives/513005) [[신문기사]](https://news.joins.com/article/24086008) [[요약영상]](https://www.youtube.com/watch?v=hFyG75uMIQI) 🎬
 * 서울연구원 (2021) 서울시 고령인구 밀집지역 사회공간적 특성과 근린환경 개선방향 / 사례지역 조사 부분 및 외국사례 조사 부분 (뉴욕주) 담당 / [최종보고서 📕](http://www.si.re.kr/node/65066)
 
