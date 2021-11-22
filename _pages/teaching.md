@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Myoungji University
+## Myongji University
 * 건축과문화 (2021-2: [JGA02122](https://complete-road-66f.notion.site/2c9a162dd72749c092bf5a3bdb081ebc))
 * 건축분석 (2021-2: [JGA03235](https://complete-road-66f.notion.site/cbc4058e5fce4605ac298cd6e6957001))
 * 공간과행태 (2021-2: [JGA03249](https://complete-road-66f.notion.site/3007772ec12b465d99c02a060663d1c2))
