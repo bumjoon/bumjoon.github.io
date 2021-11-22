@@ -6,10 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
-**Email**: bumjoon@mju.ac.kr
+✉**Email**: bumjoon@mju.ac.kr
 
 ## Mailing Address
-경기도 용인시 처인구 명지로 116 (우: 17058)
+📫 경기도 용인시 처인구 명지로 116 (우: 17058)
 
 디자인조형센터 (Y12205)
 
@@ -19,7 +19,7 @@ College of Architecture, Myoungji University
 
 South Korea
 
-📫 Office: 031-330-6403 
+📞 Office: 031-330-6403 
 
 📠 Fax: 031-330-6487
 
