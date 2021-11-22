@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-✉**Email**: bumjoon@mju.ac.kr
+✉ **Email**: bumjoon@mju.ac.kr
 
 ## Mailing Address
 📫 경기도 용인시 처인구 명지로 116 (우: 17058)
