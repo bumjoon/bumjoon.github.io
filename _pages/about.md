@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-🔥 **NOTE**: 연구생을 모집합니다. 저와 함께 공부하고 싶은 학생은 [구글폼 설문](https://docs.google.com/forms/d/e/1FAIpQLScC_7KqrJKG-jlEFdciXlwNz0kzqakEUgOZgDxesodLlJapnA/viewform?usp=sf_link)을 작성해주세요(*첨부파일 제출을 위해 구글 로그인이 먼저 필요합니다*).
+🔥 **NOTE**: 학부연구생을 모집합니다. 저와 함께 공부하고 싶은 학생은 [구글폼 설문](https://docs.google.com/forms/d/e/1FAIpQLScC_7KqrJKG-jlEFdciXlwNz0kzqakEUgOZgDxesodLlJapnA/viewform?usp=sf_link)을 작성해주세요(*첨부파일 제출을 위해 구글 로그인이 먼저 필요합니다*).
 
 ---
 
