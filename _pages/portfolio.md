@@ -9,7 +9,8 @@ author_profile: true
 * 서울연구원 (2021) 서울시 고령인구 밀집지역 사회공간적 특성과 근린환경 개선방향 / 사례지역 조사 부분 및 외국사례 조사 부분 (뉴욕주) 담당 / [최종보고서](http://www.si.re.kr/node/65066)
 
 # 학술논문
-* [🔥New] **Kang, B.**, Won, J., & Kim, E. J. (2021). COVID-19 impact on residential preferences in the early-stage outbreak in South Korea. *International Journal of Environmental Research and Public Health*, 18(21), 11207. [doi:10.3390/ijerph182111207](https://doi.org/10.3390/ijerph182111207)
+* [🔥New] 김영우, 최진규, **강범준**. (2021). 포스트코로나 건축도시설계 공모전의 핵심개념 분석 . 대한건축학회논문집, 37(12), 129-140. [doi:10.5659/JAIK.2021.37.12.129](https://doi.org/10.5659/JAIK.2021.37.12.129)
+* **Kang, B.**, Won, J., & Kim, E. J. (2021). COVID-19 impact on residential preferences in the early-stage outbreak in South Korea. *International Journal of Environmental Research and Public Health*, 18(21), 11207. [doi:10.3390/ijerph182111207](https://doi.org/10.3390/ijerph182111207)
 * Wang, C., Steinfeld, E., Maisel, J. L., & **Kang, B.** (2021). Is your smart city inclusive? Evaluating proposals from the U.S. Department of Transportation's Smart City Challenge, *Sustainable Cities and Society* (103148) [https://doi.org/10.1016/j.scs.2021.103148](https://doi.org/10.1016/j.scs.2021.103148)
 * **Kang, B.**, Lee, S., Zou, S. (2021). Developing Sidewalk Inventory Data Using Street View Images. *Sensors*, 21(9):3300. [https://doi.org/10.3390/s21093300](https://doi.org/10.3390/s21093300) 
 * 김은정, 심혜민, 원재웅, & **강범준**. (2020). 도시 차원에서 바라 본 코로나 19 이슈 흐름-신문기사 자료를 중심으로. 한국도시설계학회지 도시설계, 21(6), 163-179. [http://doi.org/10.38195/judik.2020.12.21.6.163](http://doi.org/10.38195/judik.2020.12.21.6.163)
