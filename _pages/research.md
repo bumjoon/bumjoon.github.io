@@ -10,7 +10,7 @@ Urban Design Policy, Environment-Behavior Interactions, and Walkable/Healthy Cit
 
 
 ## 최근 진행중인 논문 주제
-🧪 포스트코로나 건축과 도시 [논문1](https://www.mdpi.com/1660-4601/18/21/11207) / [논문2](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10512448&language=ko_KR) / [논문3](https://doi.org/10.5659/JAIK.2021.37.12.129)
+🧪 포스트코로나 건축과 도시 [논문1](https://www.mdpi.com/1660-4601/18/21/11207) / [논문2](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10512448&language=ko_KR) / [논문3](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002787101)
 
 🏃🏻‍♀️ 보행자 및 보행환경 데이터 자동생산 [논문](https://www.mdpi.com/1424-8220/21/9/3300)
 
