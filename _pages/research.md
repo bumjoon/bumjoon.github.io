@@ -8,6 +8,8 @@ author_profile: true
 
 Urban Design Policy, Environment-Behavior Interactions, and Walkable/Healthy City
 
+👨🏻‍🔧 논문목록: [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=OgXBE_4AAAAJ&view_op=list_works&sortby=pubdate)
+
 
 ## 최근 진행중인 논문 주제
 🧪 포스트코로나 건축과 도시 [논문1](https://www.mdpi.com/1660-4601/18/21/11207) / [논문2](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10512448&language=ko_KR) / [논문3](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002787101)
