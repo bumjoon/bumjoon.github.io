@@ -15,7 +15,7 @@ author_profile: true
     * [2021-1: Reading Urban Design](https://docs.google.com/document/d/1Oj4S2sXJaaYarjdw0za7M0gA4uGeNWp5x7L78BINif0/edit?usp=sharing)
     * [2019-W: Gwanghwamun](https://docs.google.com/document/d/1Hil4O356NuZoOrPqeXTfwnCR9GHZIO1Mlo0PgSlCTtc/edit?usp=sharing)
 
-💡 수업증원을 원하는 학생들은 [온라인 신청서](https://docs.google.com/forms/d/e/1FAIpQLSdc2LKbpXHZwqFFeakoKra_9EtgcDXVB2ZaB3ar0CnRkCZkpQ/viewform?usp=sf_link)를 제출해주세요. 
+💡 수업증원을 원하는 학생들은 교학팀에 문의하여 온라인 신청서를 제출해주세요. 
 
 ## University at Buffalo (SUNY)
 * END 301 Perspectives on Land Use and Development
