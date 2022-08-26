@@ -7,7 +7,7 @@ author_profile: true
 ## Myongji University
 * 🔥 건축과문화 [2022-2](https://complete-road-66f.notion.site/2c9a162dd72749c092bf5a3bdb081ebc)
 * 🔥 공간과행태 [2022-2](https://complete-road-66f.notion.site/3007772ec12b465d99c02a060663d1c2)
-* 🔥 건축설계와조형2 2022-2
+* 🔥 건축설계와조형2 [2022-2](https://docs.google.com/presentation/d/1SF92qcZyFHsC1hekNH3kFlXDSw9Nho9Uur6wGzNl39c/edit?usp=sharing)
 * 건축분석 [2022-1](https://complete-road-66f.notion.site/cbc4058e5fce4605ac298cd6e6957001)
 * 도시공간계획론 [2022-1](https://complete-road-66f.notion.site/Urban-Design-and-Planning-997e4a77e6e245aaa55f70bb102bf3b8)
 * 세미나/워크샵
