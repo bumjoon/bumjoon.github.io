@@ -12,7 +12,9 @@ author_profile: true
 📫 서울특별시 관악구 관악로 1 39동 501호 (우: 08826)
 
 Department of Architecture & Architectural Engineering, College of Engineering, Seoul National University
+
 39-501
+
 1, Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
 
 📞 Office: 02-880-7051 
