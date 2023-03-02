@@ -14,12 +14,6 @@ redirect_from:
 
 자세한 경력사항은 [CV](https://docs.google.com/document/d/1taio6Weqx4-L7HkPty6WoQpgZYEDqC3TdxDGAQN0uIo/edit?usp=sharing)를 참조바랍니다.
 
----
-
-🔥 **NOTE**: 학부연구생을 모집합니다. 저와 함께 공부하고 싶은 학생은 [구글폼 설문](https://docs.google.com/forms/d/e/1FAIpQLScC_7KqrJKG-jlEFdciXlwNz0kzqakEUgOZgDxesodLlJapnA/viewform?usp=sf_link)을 작성해주세요(*첨부파일 제출을 위해 구글 로그인이 먼저 필요합니다*).
-
----
-
 I am an Associate Professor at the [Department of Architecture and Architectural Engineering, College of Engineering, Seoul National University (SNU DAAE)](https://architecture.snu.ac.kr/). My research interests include spatial analysis, environmental behavior, and urban design, focusing on the environment-behavior interactions. As long-term academic goals, I would develop future urban forms that support healthy urban living. 
 
 Before joining SNU DAAE, I worked at the [College of Architecture, Myongji University](http://arch.mju.ac.kr/) and [School of Architecture and Planning, University at Buffalo (SUNY)](http://ap.buffalo.edu) as a professor and at [Urban Form Lab](http://depts.washington.edu/ufl/) in University of Washington as a research associate. I also worked as a urban designer/researcher at Seoul Development Institute (currently [the Seoul Institute](http://www.si.re.kr/)). As trained as an architect/urban designer, in general, I’m interested in new city forms that will come with new technologies in the future.
