@@ -4,6 +4,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Seoul National University
+* 건축과사회 2023-1
+* 건축공간분석학 2023-1
+
 ## Myongji University
 * 🔥 건축과문화 [2022-2](https://complete-road-66f.notion.site/2c9a162dd72749c092bf5a3bdb081ebc)
 * 🔥 공간과행태 [2022-2](https://complete-road-66f.notion.site/3007772ec12b465d99c02a060663d1c2)
@@ -14,8 +18,6 @@ author_profile: true
     * [2021-W: Seoul Downtown Renewal](https://complete-road-66f.notion.site/Understanding-Seoul-Downtown-Renewal-Projects-070329f921a7408e98216b338e1b3e5a)
     * [2021-1: Reading Urban Design](https://docs.google.com/document/d/1Oj4S2sXJaaYarjdw0za7M0gA4uGeNWp5x7L78BINif0/edit?usp=sharing)
     * [2019-W: Gwanghwamun](https://docs.google.com/document/d/1Hil4O356NuZoOrPqeXTfwnCR9GHZIO1Mlo0PgSlCTtc/edit?usp=sharing)
-
-💡 수업증원을 원하는 학생들은 교학팀에 문의하여 온라인 신청서를 제출해주세요. 
 
 ## University at Buffalo (SUNY)
 * END 301 Perspectives on Land Use and Development
