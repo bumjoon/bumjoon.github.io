@@ -80,11 +80,11 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "avatar-icon.png"
-  bio              : "Associate Professor, College of Architecture, Myongji University"
+  bio              : "Associate Professor, Department of Architecture & Architectural Engineering, Seoul National University"
   location         : "South Korea"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=OgXBE_4AAAAJ&hl=en"
-  email            : "bumjoon@mju.ac.kr"
+  email            : "bumjoon@snu.ac.kr"
   uri              :
   bitbucket        :
   codepen          :
