@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-저는 [서울대학교 공과대학 건축학과](https://architecture.snu.ac.kr/)에서 공간분석, 공간행태, 도시설계 분야를 공부하고 가르칩니다. 건축도시공간과 행태의 상관관계가 주 관심사입니다. 큰 틀에서는 더욱 건강한 미래의 건축과 도시 형태를 고민하고 있습니다.
+저는 [서울대학교 공과대학 건축학과](https://architecture.snu.ac.kr/)에서 공간분석, 공간행태, 도시설계 분야를 연구하고 교육합니다. 건축도시공간과 행태의 상호관계가 주 관심사입니다. 큰 틀에서는 더욱 건강한 미래의 건축과 도시 형태를 고민하고 있습니다.
 
 저는 서울대학교 건축학과에서 학사, 석사를 마치고 [서울연구원](https://www.si.re.kr/) 도시계획설계연구부에서 연구원으로 근무하였습니다. 미국 University of Washington에서 [도시설계및계획 박사학위](https://depts.washington.edu/urbdpphd/)를 받고 [뉴욕주립대(SUNY Buffalo)](http://www.buffalo.edu/) [건축대학](http://ap.buffalo.edu)과 [명지대학교 건축대학](https://arch.mju.ac.kr/)에서 교수로 근무하였습니다.
 
@@ -26,4 +26,4 @@ Before joining SNU DAAE, I worked at the [College of Architecture, Myongji Unive
 
 ![x](/images/20191003_pangyo_9.jpg)
 
-<sup>*2nd Generation of New Town* in South Korea: Employment centers, high-density market housing, and social housing integrated with urban streams © Photo: Kang 2019</sup>
+<sup>The 2nd generation development of South Korea's *New Town*: Employment centers, high-density market housing, and social housing integrated with urban streams © Photo: Kang 2019</sup>
