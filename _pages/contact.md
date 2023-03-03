@@ -17,7 +17,7 @@ Department of Architecture & Architectural Engineering, College of Engineering, 
 
 1, Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
 
-📞 Office: 02-880-7051 
+📞 Office: 02-880-7051 | Fax: 02-871-5518
 
 ## Office Hours
 저와 면담하고 싶은 학생은 아래 "Book Now" 링크를 클릭하세요. 15분단위로 열린 시간대를 골라 직접 예약하면 됩니다 (긴 면담이 필요하면 여러개를 예약하세요). 예약시 학생 이름, 이메일주소, 면담용건을 간략히 적어 서식을 제출하면 됩니다 (제출한 이메일로 추후 예약 취소/변경할 수 있는 링크 발송됨).
