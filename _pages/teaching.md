@@ -6,16 +6,16 @@ author_profile: true
 
 ## Seoul National University
 * 건축과사회 2023-1
-* 건축공간분석학 2023-1
+* 건축공간분석학 [2023-1](https://bumjoon.notion.site/Spatial-Analysis-4e01da37619f4620931130f69c04c1f3)
 
 ## Myongji University
-* 🔥 건축과문화 [2022-2](https://complete-road-66f.notion.site/2c9a162dd72749c092bf5a3bdb081ebc)
-* 🔥 공간과행태 [2022-2](https://complete-road-66f.notion.site/3007772ec12b465d99c02a060663d1c2)
+* 🔥 건축과문화 2022-2
+* 🔥 공간과행태 2022-2
 * 🔥 건축설계와조형2 [2022-2](https://docs.google.com/presentation/d/1SF92qcZyFHsC1hekNH3kFlXDSw9Nho9Uur6wGzNl39c/edit?usp=sharing)
-* 건축분석 [2022-1](https://complete-road-66f.notion.site/cbc4058e5fce4605ac298cd6e6957001)
-* 도시공간계획론 [2022-1](https://complete-road-66f.notion.site/Urban-Design-and-Planning-997e4a77e6e245aaa55f70bb102bf3b8)
+* 건축분석 2022-1
+* 도시공간계획론 2022-1
 * 세미나/워크샵
-    * [2021-W: Seoul Downtown Renewal](https://complete-road-66f.notion.site/Understanding-Seoul-Downtown-Renewal-Projects-070329f921a7408e98216b338e1b3e5a)
+    * 2021-W: Seoul Downtown Renewal
     * [2021-1: Reading Urban Design](https://docs.google.com/document/d/1Oj4S2sXJaaYarjdw0za7M0gA4uGeNWp5x7L78BINif0/edit?usp=sharing)
     * [2019-W: Gwanghwamun](https://docs.google.com/document/d/1Hil4O356NuZoOrPqeXTfwnCR9GHZIO1Mlo0PgSlCTtc/edit?usp=sharing)
 
