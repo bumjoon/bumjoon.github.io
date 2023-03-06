@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-✉ **Email**: bumjoon@mju.ac.kr
+✉ **Email**: bumjoon@snu.ac.kr
 
 ## Mailing Address
 📫 서울특별시 관악구 관악로 1 39동 501호 (우: 08826)
