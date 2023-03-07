@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Seoul National University
-* 건축과사회 2023-1
+* 건축과사회 [2023-1](https://bumjoon.notion.site/Architecture-Society-330cb7104c7144c79df44303366571b3)
 * 건축공간분석학 [2023-1](https://bumjoon.notion.site/Spatial-Analysis-4e01da37619f4620931130f69c04c1f3)
 
 ## Myongji University
