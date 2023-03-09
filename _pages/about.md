@@ -16,7 +16,7 @@ redirect_from:
 
 I am an Associate Professor at the [Department of Architecture and Architectural Engineering, College of Engineering, Seoul National University (SNU DAAE)](https://architecture.snu.ac.kr/). My research interests include spatial analysis, environmental behavior, and urban design, focusing on the environment-behavior interactions. As long-term academic goals, I would develop future urban forms that support healthy urban living. 
 
-Before joining SNU DAAE, I worked at the [College of Architecture, Myongji University](http://arch.mju.ac.kr/) and [School of Architecture and Planning, University at Buffalo (SUNY)](http://ap.buffalo.edu) as a professor and at [Urban Form Lab](http://depts.washington.edu/ufl/) in University of Washington as a research associate. I also worked as an urban designer/researcher at Seoul Development Institute (currently [the Seoul Institute](http://www.si.re.kr/)). As trained as an architect/urban designer, in general, I’m interested in new city forms that will come with new technologies in the future.
+Before joining SNU DAAE, I worked at the [College of Architecture, Myongji University](http://arch.mju.ac.kr/) and [School of Architecture and Planning, University at Buffalo (SUNY)](http://ap.buffalo.edu) as a professor and at [Urban Form Lab](http://depts.washington.edu/ufl/) in University of Washington as a research associate. I also worked as an urban designer/researcher at Seoul Development Institute (currently [the Seoul Institute](http://www.si.re.kr/)). As trained as an architect/urban designer, in general, I’m interested in finding new city forms that will come with new technologies in the future.
 
 ![x](/images/20191003_pangyo_9.jpg)
 
