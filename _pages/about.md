@@ -14,7 +14,7 @@ redirect_from:
 
 ---
 
-서울대학교에는 2023년 1학기에 부임하여, 건축도시공간연구실(LAUS) 대학원생들을 지도하고 있습니다(현재 연구실 홈페이지 개편중 / [참고: 예전 연구실 홈페이지](https://laus.snu.ac.kr/)). 대학원 진학 절차는 다음 [링크](https://bumjoon.notion.site/Lab-Application-5e1fd035bf0d40828e356a97fa2f4284)를 확인 부탁드립니다.
+서울대학교에는 2023년 1학기에 부임하여, 건축도시공간연구실(LAUS) 대학원생들을 지도하고 있습니다(**현재 연구실 홈페이지 개편중** / [참고: 예전 연구실 홈페이지](https://laus.snu.ac.kr/)). 대학원 진학 절차는 다음 [링크](https://bumjoon.notion.site/Lab-Application-5e1fd035bf0d40828e356a97fa2f4284)를 확인 부탁드립니다.
 
 ---
 
