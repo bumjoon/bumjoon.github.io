@@ -12,9 +12,9 @@ redirect_from:
 
 서울대학교 건축학과에서 학사, 석사를 마치고 [서울연구원](https://www.si.re.kr/) 도시계획설계연구부에서 연구원으로 근무하였습니다. 미국 University of Washington에서 [도시설계및계획 박사학위](https://depts.washington.edu/urbdpphd/)를 받고 [뉴욕주립대(SUNY Buffalo)](http://www.buffalo.edu/) [건축대학](http://ap.buffalo.edu)과 [명지대학교 건축대학](https://arch.mju.ac.kr/)에서 교수로 근무한 바 있습니다.
 
-> 서울대학교에는 2023년 1학기에 부임하여, 건축도시공간연구실(LAUS) 대학원생들을 지도하고 있습니다(현재 연구실 홈페이지 개편중 / [참고: 예전 연구실 홈페이지](https://laus.snu.ac.kr/)). 대학원 진학 절차는 다음 [링크](https://bumjoon.notion.site/Lab-Application-5e1fd035bf0d40828e356a97fa2f4284)를 확인 부탁드립니다.
-
 자세한 경력사항은 [CV](https://docs.google.com/document/d/1taio6Weqx4-L7HkPty6WoQpgZYEDqC3TdxDGAQN0uIo/edit?usp=sharing)를 참조바랍니다.
+
+> 서울대학교에는 2023년 1학기에 부임하여, 건축도시공간연구실(LAUS) 대학원생들을 지도하고 있습니다(현재 연구실 홈페이지 개편중 / [참고: 예전 연구실 홈페이지](https://laus.snu.ac.kr/)). 대학원 진학 절차는 다음 [🔗 링크](https://bumjoon.notion.site/Lab-Application-5e1fd035bf0d40828e356a97fa2f4284)를 확인 부탁드립니다.
 
 I am an Associate Professor at the [Department of Architecture and Architectural Engineering, College of Engineering, Seoul National University (SNU DAAE)](https://architecture.snu.ac.kr/). My research interests include spatial analysis, environmental behavior, and urban design, focusing on the environment-behavior interactions. As long-term academic goals, I would develop future urban forms that support healthy urban living. 
 
