@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 ## Seoul National University
-* 건축과사회 [2023-1](https://bumjoon.notion.site/Architecture-Society-330cb7104c7144c79df44303366571b3)
-* 건축공간분석학 [2023-1](https://bumjoon.notion.site/Spatial-Analysis-4e01da37619f4620931130f69c04c1f3)
+* 🔥 건축과사회 [2023-1](https://bumjoon.notion.site/Architecture-Society-330cb7104c7144c79df44303366571b3)
+* 🔥 건축공간분석학 [2023-1](https://bumjoon.notion.site/Spatial-Analysis-4e01da37619f4620931130f69c04c1f3)
 
 ## Myongji University
-* 🔥 건축과문화 2022-2
-* 🔥 공간과행태 2022-2
-* 🔥 건축설계와조형2 [2022-2](https://docs.google.com/presentation/d/1SF92qcZyFHsC1hekNH3kFlXDSw9Nho9Uur6wGzNl39c/edit?usp=sharing)
+* 건축과문화 2022-2
+* 공간과행태 2022-2
+* 건축설계와조형2 [2022-2](https://docs.google.com/presentation/d/1SF92qcZyFHsC1hekNH3kFlXDSw9Nho9Uur6wGzNl39c/edit?usp=sharing)
 * 건축분석 2022-1
 * 도시공간계획론 2022-1
 * 세미나/워크샵
