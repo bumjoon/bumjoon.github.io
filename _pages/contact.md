@@ -15,7 +15,7 @@ Department of Architecture & Architectural Engineering, College of Engineering, 
 
 39-501
 
-1, Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
+Gwanak-ro 1, Gwanak-gu, Seoul 08826, Republic of Korea
 
 📞 Office: 02-880-1553 📠 Fax: 02-871-5518
 
