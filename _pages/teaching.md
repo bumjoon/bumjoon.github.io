@@ -8,6 +8,8 @@ author_profile: true
 * 🔥 건축과사회 [2023-1](https://bumjoon.notion.site/Architecture-Society-330cb7104c7144c79df44303366571b3)
 * 🔥 건축공간분석학 [2023-1](https://bumjoon.notion.site/Spatial-Analysis-4e01da37619f4620931130f69c04c1f3)
 
+[권장도서 목록](https://bumjoon.notion.site/3d46b23d9e9e465894f808ec2d3eda09)
+
 ## Myongji University
 * 건축과문화 2022-2
 * 공간과행태 2022-2
