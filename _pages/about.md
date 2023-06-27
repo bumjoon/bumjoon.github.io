@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-강범준 교수는 [서울대학교 공과대학 건축학과](https://architecture.snu.ac.kr/)에서 공간분석, 공간행태, 도시설계 분야를 연구하고 교육하고 있습니다. 근본적 연구질문은 건축도시공간과 행태의 동적 상호관계의 실체파악과 원인규명입니다. 장기적 실천 목적은 더욱 건강한 미래 건축과 도시 형태 개발입니다.
+강범준 교수는 [서울대학교 공과대학 건축학과](https://architecture.snu.ac.kr/)에서 공간분석, 공간행태, 도시설계 분야를 연구하고 교육하고 있습니다. 근본적 연구 동기와 목적은 건축도시공간과 행태의 동적 상호관계의 실체파악과 원인규명입니다. 장기적 실천 목적은 더욱 건강한 미래 건축과 도시 형태 개발입니다.
 
 서울대학교 건축학과에서 학사, 석사를 마치고 [서울연구원](https://www.si.re.kr/) 도시계획설계연구부에서 연구원으로 근무하였습니다. 미국 University of Washington에서 [도시설계및계획 박사학위](https://depts.washington.edu/urbdpphd/)를 받고 [뉴욕주립대(SUNY Buffalo)](http://www.buffalo.edu/) [건축대학](http://ap.buffalo.edu)과 [명지대학교 건축대학](https://arch.mju.ac.kr/)에서 교수로 근무한 바 있습니다.
 
