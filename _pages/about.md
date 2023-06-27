@@ -16,7 +16,7 @@ redirect_from:
 
 > 서울대학교에 2023년 1학기 부임후, 건축도시공간연구실(LAUS) 대학원생들을 지도하고 있습니다(현재 연구실 홈페이지 개편중 / [참고: 예전 연구실 홈페이지](https://laus.snu.ac.kr/)).
 >
-> ==[🔗 대학원연구실 지원안내](https://bumjoon.notion.site/Lab-Application-5e1fd035bf0d40828e356a97fa2f4284)==.
+> [🔗 대학원연구실 지원안내](https://bumjoon.notion.site/Lab-Application-5e1fd035bf0d40828e356a97fa2f4284)
 
 I am an Associate Professor at the [Department of Architecture and Architectural Engineering, College of Engineering, Seoul National University (SNU DAAE)](https://architecture.snu.ac.kr/). My research interests include spatial analysis, environmental behavior, and urban design, with research questions on the environment-behavior interactions. As long-term practical goals, I would develop future urban forms shaping healthy urban living. 
 
