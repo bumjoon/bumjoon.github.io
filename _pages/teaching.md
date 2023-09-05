@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 ## Seoul National University
-* 🔥 건축과사회 [2023-1](https://bumjoon.notion.site/Architecture-Society-330cb7104c7144c79df44303366571b3)
-* 🔥 건축공간분석학 [2023-1](https://bumjoon.notion.site/Spatial-Analysis-4e01da37619f4620931130f69c04c1f3)
+* 🔥 도시와주거 [2023-2](https://bumjoon.notion.site/Urbanism-and-Housing-d3e85f0ebcb14ecc9d211120ba308433)
+* 건축과사회 [2023-1](https://bumjoon.notion.site/Architecture-Society-330cb7104c7144c79df44303366571b3)
+* 건축공간분석학 [2023-1](https://bumjoon.notion.site/Spatial-Analysis-4e01da37619f4620931130f69c04c1f3)
 
 [권장도서 목록](https://bumjoon.notion.site/3d46b23d9e9e465894f808ec2d3eda09)
 
