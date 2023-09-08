@@ -10,9 +10,8 @@ redirect_from:
 
 ---
 
-앞으로 본 개인 홈페이지는 [건축도시공간연구실 홈페이지](https://laus.snu.ac.kr/)로 통합됩니다.
-
-향후 업데이트되는 내용은 연구실 홈페이지 확인을 부탁드립니다!
+🦋 앞으로 본 개인 홈페이지는 [건축도시공간연구실 홈페이지](https://laus.snu.ac.kr/)로 통합됩니다. 향후 업데이트되는 내용은 연구실 홈페이지 확인을 부탁드립니다!
+Please visit [LAUS webpage](https://laus.snu.ac.kr/) for new updates! From September 2023, this personal webpage will not be active and be merged into the Lab webpage.
 
 ---
 
