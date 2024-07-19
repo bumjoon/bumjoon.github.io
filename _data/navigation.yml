@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
 
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -15,14 +15,14 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: https://docs.google.com/document/d/1taio6Weqx4-L7HkPty6WoQpgZYEDqC3TdxDGAQN0uIo/edit?usp=sharing
+  #- title: "CV"
+  #  url: https://docs.google.com/document/d/1taio6Weqx4-L7HkPty6WoQpgZYEDqC3TdxDGAQN0uIo/edit?usp=sharing
   
-  - title: "이력서"
-    url: https://docs.google.com/document/d/1hepM4KX_w01mfOdztIEnDvdapTB2VPGfxixumuToS4o/edit?usp=sharing
+  #- title: "이력서"
+  #  url: https://docs.google.com/document/d/1hepM4KX_w01mfOdztIEnDvdapTB2VPGfxixumuToS4o/edit?usp=sharing
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
     
   # - title: "Guide"
   #  url: /markdown/
